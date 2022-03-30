@@ -1,0 +1,4 @@
+/*
+    Se tiene una tienda de musica y se quiere aplicar diferentes
+    descuentos en base al cliente y la campaña actual.
+*/
